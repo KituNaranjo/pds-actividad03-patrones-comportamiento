@@ -8,10 +8,10 @@
 
 ## Integrantes
 
-- Naranjo Rivadeneira Christian Alberto
+- Córdova Calle Juan José
 - Loor Maridueña Jordy Alexander
 - Mesias Vélez Diego Calixto
-- Córdova Calle Juan José
+- Naranjo Rivadeneira Christian Alberto
 
 ## Descripción
 
