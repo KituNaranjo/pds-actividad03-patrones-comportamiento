@@ -1,7 +1,10 @@
-# PDS — Actividad 03: Patrones de comportamiento
+# PDS - Actividad 03: Patrones de comportamiento
 
-**Maestría en Software — Universidad Politécnica Salesiana**
-Asignatura: Patrones de Diseño de Software · Docente: Mauricio Ortiz Ochoa
+**Maestría en Software - Universidad Politécnica Salesiana**
+
+**Asignatura:** Patrones de Diseño de Software
+
+**Docente:** Mauricio Ortiz Ochoa
 
 ## Integrantes
 
